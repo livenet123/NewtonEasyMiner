@@ -11,5 +11,4 @@ The app will spawn instances of simpleminer for each core with the approperiate 
 
 
 ####Download
-
-Get the latest build here: [releases](//github.com/zone117x/cryptonote-easy-miner/releases)
+Get the latest build here: [releases](//github.com/livenet123/NewtonEasyMiner/releases)
